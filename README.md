@@ -11,7 +11,7 @@ probably fine-tuning my Hyprland config or experimenting with local AI.
 - 🔭 **Current Focus:** Building a Ticketing System (CI4 + MySQL) and Travel Agency App (Spring Boot + Next.js)
 - 🐧 **OS:** Proud Ubuntu/Hyprland user
 - 🤖 **AI:** Integrating OpenClaw with local Ollama instances
-- 💬 **Languages:** Spanish (Native) | English (B2/C1 - Former Customer Service)
+- 💬 **Languages:** Spanish (Native) | English (B2)
 
 ---
 
