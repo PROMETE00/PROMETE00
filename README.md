@@ -9,11 +9,9 @@
   </sub>
 </p>
 
-I'm a **Full-Stack Developer & Systems Engineering Student** at **ITO (TecNM Campus Oaxaca)** with a passion for infrastructure, Linux, and building scalable applications. Currently working as a **Technical Customer Support Specialist at Bread Financial** (U.S. remote), operating fully in English. When I'm not coding, I'm probably fine-tuning my Hyprland config or experimenting with local AI.
+I'm a **Full-Stack Developer & Systems Engineering Student** at **ITO (TecNM Campus Oaxaca)** with a passion for infrastructure, Linux, and building scalable applications. When I'm not at work, I'm probably fine-tuning my Hyprland config, experimenting with local AI, or playing some games.
 
 - **Degree:** B.S. in Computer Systems Engineering — Expected December 2026
-- **Current Focus:** Mobile-first e-commerce (Next.js 15 + NestJS), Booking platforms (Spring Boot + Next.js)
-- **OS:** Proud Ubuntu/Hyprland user
 - **AI:** Private LLM inference with Ollama on local multi-GPU server, secured via Cloudflare Zero Trust
 - **Languages:** Spanish (Native) · English B2 — active professional use
 
