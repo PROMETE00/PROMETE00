@@ -1,40 +1,74 @@
-# Hi there, I'm Prome! 👋
+# Hi there, I'm Prome
 
 <p align="center">
-  <sub>  <a href="https://linkedin.com/in/prometeo-mendoza-luis-812471323/">LinkedIn</a>.</sub>
+  <sub>
+    <a href="https://prome.works">prome.works</a> ·
+    <a href="https://github.com/PROMETE00">github.com/PROMETE00</a> ·
+    <a href="https://linkedin.com/in/prometeo-mendoza-luis">LinkedIn</a> ·
+    <a href="mailto:prometeomendozaluiswo@gmail.com">prometeomendozaluiswo@gmail.com</a>
+  </sub>
 </p>
 
-I'm a **Systems Engineering Student** at **ITO (TecNM Campus Oaxaca)** with a passion for
-infrastructure, Linux ricing, and building scalable applications. When I'm not coding, I'm
-probably fine-tuning my Hyprland config or experimenting with local AI.
+I'm a **Full-Stack Developer & Systems Engineering Student** at **ITO (TecNM Campus Oaxaca)** with a passion for infrastructure, Linux, and building scalable applications. Currently working as a **Technical Customer Support Specialist at Bread Financial** (U.S. remote), operating fully in English. When I'm not coding, I'm probably fine-tuning my Hyprland config or experimenting with local AI.
 
-- 🔭 **Current Focus:** Building a Ticketing System (CI4 + MySQL) and Travel Agency App (Spring Boot + Next.js)
-- 🐧 **OS:** Proud Ubuntu/Hyprland user
-- 🤖 **AI:** Integrating OpenClaw with local Ollama instances
-- 💬 **Languages:** Spanish (Native) | English (B2)
+- **Degree:** B.S. in Computer Systems Engineering — Expected December 2026
+- **Current Focus:** Mobile-first e-commerce (Next.js 15 + NestJS), Booking platforms (Spring Boot + Next.js)
+- **OS:** Proud Ubuntu/Hyprland user
+- **AI:** Private LLM inference with Ollama on local multi-GPU server, secured via Cloudflare Zero Trust
+- **Languages:** Spanish (Native) · English B2 — active professional use
 
----
+***
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack
 
-### Backend & Infrastructure
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+**Backend & Infrastructure**
+Java · Spring Boot · NestJS · Node.js · PHP (CodeIgniter 4) · REST APIs · JWT · RBAC · Prisma ORM · Microservices
 
-### Frontend & UI
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+**Frontend & UI**
+Next.js 15 (App Router, SSR/ISR) · React 19 · Angular · Tailwind CSS
 
-### Tools & DevOps
-![Zsh](https://img.shields.io/badge/zsh-%23000000.svg?style=for-the-badge&logo=zsh&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E94331?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+**Databases**
+PostgreSQL · MySQL · Redis
 
+**DevOps & Cloud**
+Docker · Docker Compose · GitHub Actions · CI/CD · GHCR · Linux (Ubuntu Server) · Cloudflare Tunnel · Cloudflare Zero Trust · SSH · UFW
+
+**Languages**
+Java · TypeScript · JavaScript · Python · SQL · Bash
+
+***
+
+## Featured Projects
+
+### [Institutional ID Issuance Kiosk](https://credencializacion.prome.works)
+*PHP (CodeIgniter 4) · MySQL · JavaScript · MediaPipe · PDF/QR*
+
+Reduced credential delivery from ~3 months to instant issuance at registration. Automated biometric capture, PDF/QR generation, and queue assignment in a single flow — staff reduced from 5 to 1.
+
+### [Fresas — Mobile-First E-commerce](https://fresas.prome.works)
+*Next.js 15 · NestJS · PostgreSQL · Redis · Prisma ORM · Stripe · Docker · GitHub Actions*
+
+Full-stack e-commerce MVP with SSR/ISR catalog, Zustand cart, Stripe checkout, and WhatsApp API integration. CI/CD via GitHub Actions with GHCR; deployed with Docker Compose and Cloudflare Tunnels — no exposed host ports.
+
+### [Meraki Travels — Booking Platform](https://merakitravels.prome.works)
+*Java (Spring Boot) · Next.js · PostgreSQL · Stripe · JWT · RBAC · Docker*
+
+End-to-end travel booking platform with JWT authentication, role-based access control, Stripe payments, and SSR via Next.js App Router.
+
+### [Private AI Inference Infrastructure](https://claux.prome.works)
+*Ubuntu Server · Docker Compose · Ollama · Python · Cloudflare Tunnel · Zero Trust*
+
+Self-hosted LLM inference environment on a multi-GPU Ubuntu server. Secured with Cloudflare Zero Trust Access and SSH; perimeter hardened with UFW — zero open host ports.
+
+***
+
+## Certifications
+
+- **Oracle Data Platform 2025 Certified Foundations Associate** — Oracle (Jul. 2025 – Jul. 2027)
+- **Google AI Essentials** — Coursera / Google (Apr. 2025)
+- **Data Curator** — Capacítate para el Empleo · Score: 9.67/10 (Dec. 2023)
+
+***
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
